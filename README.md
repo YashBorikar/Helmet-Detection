@@ -10,6 +10,7 @@ The model is potential to predicting multiple helmet with or without helmet at t
 
 ## Preview
 
+https://user-images.githubusercontent.com/96331104/154850518-2a3a2d24-0af5-4444-a9ed-8a8d9e552b14.mp4
 
 # Installations
 Follow steps to use this project:
